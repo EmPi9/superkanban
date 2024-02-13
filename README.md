@@ -8,8 +8,8 @@
 Дизайн можно посмотреть [здесь](https://www.figma.com/file/2mKzxfnEWsMPIlS1a1gJhd/Simple-Kanban-Board-(Community)?type=design&node-id=0-1&mode=design&t=HipfJx596s0f4tyq-0) (требуется регистрация).
 
 ## Технологии
-- JavaScript
-- Vite
+- **JavaScript (ES6+)**. [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript), [learn.javascript.ru](https://learn.javascript.ru/)
+- **Vite**. [MDN](https://vitejs.dev/)
 - ??? (планируется добавить)
 
 ## Установка
